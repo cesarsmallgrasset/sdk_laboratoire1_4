@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Cesar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\maxf_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
+      "projectUniqueName": "C:\\Sdk\\sdk_laboratoire1_4\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
       "projectName": "SDK_Laboratoire1",
-      "projectPath": "G:\\Repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
-      "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-      "outputPath": "G:\\Repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\obj\\",
+      "projectPath": "C:\\Sdk\\sdk_laboratoire1_4\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
+      "packagesPath": "C:\\Users\\maxf_\\.nuget\\packages\\",
+      "outputPath": "C:\\Sdk\\sdk_laboratoire1_4\\SDK_Laboratoire1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\maxf_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
