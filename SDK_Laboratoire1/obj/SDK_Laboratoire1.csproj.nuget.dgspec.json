@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj": {}
+    "C:\\Sdk\\sdk_laboratoire1_4\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj": {}
   },
   "projects": {
-    "G:\\Repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
+    "C:\\Sdk\\sdk_laboratoire1_4\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+        "projectUniqueName": "C:\\Sdk\\sdk_laboratoire1_4\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
         "projectName": "LibrairieConversionNote",
-        "projectPath": "G:\\Repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
-        "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-        "outputPath": "G:\\Repos\\SDK_Laboratoire1\\LibrairieConversionNote\\obj\\",
+        "projectPath": "C:\\Sdk\\sdk_laboratoire1_4\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+        "packagesPath": "C:\\Users\\maxf_\\.nuget\\packages\\",
+        "outputPath": "C:\\Sdk\\sdk_laboratoire1_4\\LibrairieConversionNote\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\maxf_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,21 +58,17 @@
         }
       }
     },
-    "G:\\Repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj": {
+    "C:\\Sdk\\sdk_laboratoire1_4\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
+        "projectUniqueName": "C:\\Sdk\\sdk_laboratoire1_4\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
         "projectName": "SDK_Laboratoire1",
-        "projectPath": "G:\\Repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
-        "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-        "outputPath": "G:\\Repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\obj\\",
+        "projectPath": "C:\\Sdk\\sdk_laboratoire1_4\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
+        "packagesPath": "C:\\Users\\maxf_\\.nuget\\packages\\",
+        "outputPath": "C:\\Sdk\\sdk_laboratoire1_4\\SDK_Laboratoire1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\maxf_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
-                "projectPath": "G:\\Repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj"
+              "C:\\Sdk\\sdk_laboratoire1_4\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
+                "projectPath": "C:\\Sdk\\sdk_laboratoire1_4\\LibrairieConversionNote\\LibrairieConversionNote.csproj"
               }
             }
           }

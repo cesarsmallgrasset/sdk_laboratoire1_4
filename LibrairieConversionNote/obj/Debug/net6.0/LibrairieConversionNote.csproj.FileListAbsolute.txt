@@ -10,3 +10,15 @@ G:\Repos\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConv
 G:\Repos\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
 G:\Repos\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
 G:\Repos\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.deps.json
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.dll
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.pdb
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.AssemblyReference.cache
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfoInputs.cache
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfo.cs
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.CoreCompileInputs.cache
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.dll
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
+C:\Sdk\sdk_laboratoire1_4\LibrairieConversionNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll
